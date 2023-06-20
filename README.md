@@ -1,1 +1,1 @@
-[README.md](..%2F..%2FMaven%2Fjavaqa-team-diplom-2%2FREADME.md)
+[![Build status](https://ci.appveyor.com/api/projects/status/vgpc2hxq4er15shq?svg=true)](https://ci.appveyor.com/project/MarinaIurchenko/projectgradle2)
